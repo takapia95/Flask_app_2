@@ -1,3 +1,11 @@
-h1{
-    color: blue;
-}
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#fd1d1d, #fcb045);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.bg {
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%)}
+body {
+        background-color: #bbf7f0;
+      }
